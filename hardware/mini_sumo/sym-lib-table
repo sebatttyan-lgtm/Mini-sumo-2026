@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mini-sumo-2026-sym")(type "KiCad")(uri "${KIPRJMOD}/mini-sumo-2026-sym.kicad_sym")(options "")(descr ""))
+)
