@@ -1,0 +1,1 @@
+El proyecto es un robot mini sumo diseñado por nosotros, con un tamaño y peso correspondiente a las reglas de la LNR (Liga Nacional de Robótica). este tiene la capacidad de detectar al contrincante para ir y atacar al otro mini sumo con el que este compitiendo para dejarlo fuera del tatami
