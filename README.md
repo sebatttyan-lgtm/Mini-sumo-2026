@@ -17,5 +17,7 @@ Nuestra meta con este proyecto es poder participar en la [LNR(Liga Nacional de R
 ### - SENSORES DE PISO
 #### [QRE1113](https://www.alldatasheet.es/datasheet-pdf/view/54347/FAIRCHILD/QRE1113.html) *(x2)*
 ### - MOTORES
-#### MICROMOTORES N30 500rpm *(x2)*
-
+#### [MICROMOTORES N30 500rpm](https://www.aslongdcmotor.com/photo/aslongdcmotor/document/26865/JGA12-N30.pdf) *(x2)*
+[n30 500rpm](https://arsumo.com.ar/productos/motor-n30-500rpm/?srsltid=AfmBOoqkXpuwStGrjt-3vdHtkIMNkYDemuyppE9IeR4aCbqCRvfR-5dU)
+### - MICROCONTROLADOR 
+#### [ESP32 C3 sueper mini](www.google.com/search?q=esp32+c3+super+mini&oq=esp32+c3+super+mini&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg1NzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
