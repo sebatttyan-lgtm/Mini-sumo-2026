@@ -9,5 +9,10 @@ El proyecto es un robot mini sumo diseñado por nosotros, con un tamaño y peso 
 *Sebastián Pérez.*Programación, diseño esquemático y PCB y montaje de componentes en placa.
 
 ## OBJETIVO
-Nuestra meta con este proyecto es poder participar en la [LNR(Liga Nacional de Robótica)](https://lnr-argentina.com.ar/) y quedar en un puesto alto a la hora de terminar la competencia.  
+Nuestra meta con este proyecto es poder participar en la [LNR(Liga Nacional de Robótica)](https://lnr-argentina.com.ar/) y quedar en un puesto alto a la hora de terminar la competencia.Además, queremos lograr también la programación de mini sumo RC para poder competir entre amigos. 
+
+## COMPONENTES
+### - SENSORES
+VL53L0X 
+
 
