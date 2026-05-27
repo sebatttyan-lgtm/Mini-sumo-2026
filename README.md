@@ -12,7 +12,10 @@ El proyecto es un robot mini sumo diseñado por nosotros, con un tamaño y peso 
 Nuestra meta con este proyecto es poder participar en la [LNR(Liga Nacional de Robótica)](https://lnr-argentina.com.ar/) y quedar en un puesto alto a la hora de terminar la competencia.Además, queremos lograr también la programación de mini sumo RC para poder competir entre amigos. 
 
 ## COMPONENTES
-### - SENSORES
-VL53L0X 
-
+### - SENSORES DE OBSTÁCULOS
+#### [VL53L0X](https://components101.com/sensors/vl53l0x-lidar-distance-sensor) *(x5)*
+### - SENSORES DE PISO
+#### [QRE1113](https://www.alldatasheet.es/datasheet-pdf/view/54347/FAIRCHILD/QRE1113.html) *(x2)*
+### - MOTORES
+#### MICROMOTORES N30 500rpm *(x2)*
 
