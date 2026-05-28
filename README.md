@@ -19,4 +19,11 @@ Nuestra meta con este proyecto es poder participar en la [LNR(Liga Nacional de R
 ### - MOTORES
 #### [MICROMOTORES N30 500rpm](https://www.aslongdcmotor.com/photo/aslongdcmotor/document/26865/JGA12-N30.pdf) *(x2)*
 ### - MICROCONTROLADOR 
-#### [ESP32 C3 sueper mini](www.google.com/search?q=esp32+c3+super+mini&oq=esp32+c3+super+mini&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg1NzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+#### [ESP32 C3 super mini](www.google.com/search?q=esp32+c3+super+mini&oq=esp32+c3+super+mini&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg1NzBqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
+### - DRIVER DE MOTOR (puente H)
+#### [TA6586](https://www.alldatasheet.com/datasheet-pdf/pdf/1761575/RZ-MIC/TA6586.html)
+### - BATERIA
+#### [Tattu 3S 450mAh 11.1V 75C XT30](https://www.hobbymotors.com.ar/store/index.php?route=product/product&product_id=1127)
+### - MOTORES
+#### [N30](https://es.foneacc.com/gm12-n30-p00132p1.html)
+
