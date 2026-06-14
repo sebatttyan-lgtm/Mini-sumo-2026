@@ -37,4 +37,4 @@ Nuestra meta con este proyecto es poder participar en la [LNR(Liga Nacional de R
 #### [Tattu 3S 450mAh 11.1V 75C XT30](https://www.hobbymotors.com.ar/store/index.php?route=product/product&product_id=1127) *(x1)*
 > (estos componentes son a grandes rasgos y no se han colocado todos los componentes, en el archivo "lista de componentes se encontrarán todos los materiales utilizados durante la produccion").
 
-<img width="1000" height="500" alt="PCB MiniSumo" src="https://github.com/user-attachments/assets/d05d39aa-56d9-4e52-94f0-516afe11246c" />
+<img width="1000" height="500" alt="PCB MiniSumo" src="https://github.com/sebatttyan-lgtm/Mini-sumo-2026/blob/master/docs/WhatsApp%20Image%202026-06-14%20at%2000.52.17%20(1).jpeg?raw=true" />
