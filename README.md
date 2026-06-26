@@ -40,6 +40,10 @@ Nuestra meta con este proyecto es poder participar en la [LNR(Liga Nacional de R
 ## DISEÑO DE LA PLACA
 
 <div align="center">
-<img width="1000" height="500" alt="PCB MiniSumo" src="https://github.com/sebatttyan-lgtm/Mini-sumo-2026/blob/master/docs/WhatsApp%20Image%202026-06-14%20at%2000.52.17.jpeg?raw=true PCB MINI SUMO" />
+<img width="1000" height="700" alt="PCB Mini-sumo" src="https://github.com/sebatttyan-lgtm/Mini-sumo-2026/blob/master/docs/MINISUMO-PCB.jpeg?raw=true"/>
 
+## DISEÑO ESQUEMÁMITCO
+
+<div align="center">
+<img width="647" height="1082" alt="esquematico Mini-sumo" src="https://github.com/sebatttyan-lgtm/Mini-sumo-2026/blob/master/docs/MINISUMO-SCH.jpeg?raw=true"/>
 
